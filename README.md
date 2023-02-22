@@ -25,41 +25,37 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <h2>Intake Tickets</h2>
-
 <p>
 <img src="https://imgur.com/3FM4GII.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Listed above, I have created a ticket as an user to submit in the ticketing system.
+In the ticketing system, you can submit tickets to the queue for agents to review. First, click on Open a new ticket, add your name and email address, select the topic, and provide a summary of the issue and submit.
 </p>
 <br />
 
 <h2>Assigning Tickets </h2>
-
 <p>
 <img src="https://imgur.com/rm088vz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logging into the ticket system, I reviewed the tickets that were submitted and assign to the appropiate agent.
+After reviewing tickets in the queue, the system administrator can assign the user that they would like to work and resolve the ticket. After logging in as an administrator, the administrator can go to the ticket, select "Unassigned", and Assign the appropiate user.
 </p>
 <br />
 
 <h2>Work the Issue </h2>
-
 <p>
 <img src="https://imgur.com/VFxwYme.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Listed above, I was able to assign the ticket, change the priority, department, and Service Level Agreement (SLA) for the issued.
+After assigning the ticket, the user can go into the ticket and begin to work the issues. The user is able to review the previous edits of the ticket and whom made the edits. Next, the assigned user can work the ticket and resolve.
 </p>
 <br />
 
 <h2>Resolution </h2>
-
 <p>
 <img src="https://imgur.com/Y2D4DUV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Listed above, I utilized the ticketing system as an agent and resolved the user's issue.
+Once the assigned agent has resolved the ticket, the agent can select the "Resolved" status and click "Post Reply. Once, the ticket is resolved it will be placed in the closed tickets tab.
 </p>
 <br />
