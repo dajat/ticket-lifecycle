@@ -42,7 +42,7 @@ After reviewing tickets in the queue, the system administrator can assign the us
 </p>
 <br />
 
-<h2>Work the Issue </h2>
+<h2>Working the Issue </h2>
 <p>
 <img src="https://imgur.com/VFxwYme.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
