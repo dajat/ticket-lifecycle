@@ -56,6 +56,6 @@ After assigning the ticket, the user can go into the ticket and begin to work th
 <img src="https://imgur.com/Y2D4DUV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the assigned agent has resolved the ticket, the agent can select the "Resolved" status and click "Post Reply. Once, the ticket is resolved it will be placed in the closed tickets tab.
+Once the assigned agent has resolved the ticket, the agent can select the "Resolved" status and click "Post Reply. Once, the ticket is resolved it will be placed in the closed tickets tab. Make sure to delete your resource group in Microsoft Azure, once you have completed the lab!
 </p>
 <br />
