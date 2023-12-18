@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/3FM4GII.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the ticketing system, you can submit tickets to the queue for agents to review. First, click on Open a new ticket, add your name and email address, select the topic, and provide a summary of the issue and submit.
+In the ticketing system, you can submit tickets to the queue for agents to review. First, click on Open a new ticket, add your name and email address, select the topic, provide a summary of the issue, and submit.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ In the ticketing system, you can submit tickets to the queue for agents to revie
 <img src="https://imgur.com/rm088vz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After reviewing tickets in the queue, the system administrator can assign the user that they would like to work and resolve the ticket. After logging in as an administrator, the administrator can go to the ticket, select "Unassigned", and Assign the appropiate user.
+After reviewing tickets in the queue, the system administrator can assign the user with whom they would like to work and resolve the ticket. After logging in as an administrator, the administrator can go to the ticket, select "Unassigned", and Assign the appropriate user.
 </p>
 <br />
 
@@ -47,7 +47,7 @@ After reviewing tickets in the queue, the system administrator can assign the us
 <img src="https://imgur.com/VFxwYme.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After assigning the ticket, the user can go into the ticket and begin to work the issues. The user is able to review the previous edits of the ticket and whom made the edits. Next, the assigned user can work the ticket and resolve.
+After assigning the ticket, the user can go into the ticket and begin to work on the issues. The user can review the previous edits of the ticket and who made the edits. Next, the assigned user can work on the ticket and resolve it.
 </p>
 <br />
 
